@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966580836878",
+    "project_id": "smilechatt-b55df",
+    "storage_bucket": "smilechatt-b55df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966580836878:android:af254e0cc53bc218443a5f",
+        "android_client_info": {
+          "package_name": "com.uxorialcolt.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966580836878-4ufb09vdv83hhvdalfnh2svmu5lelpbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0PJ28Fn0tVGhO-ZxVw0oGEh_wEiX7_NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966580836878-4ufb09vdv83hhvdalfnh2svmu5lelpbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
